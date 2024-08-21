@@ -30,7 +30,7 @@
   <img src="https://github.com/MainGabriel/background-vscode/blob/master/config/config-vscode-2.png" width=550px/>
   
 - depois dessas configurações, apenas colocar a imagem ou animação desejada adicionando a imagem/animação no arquivo que está no caminho "C:\Users\[seu usuario]\.vscode\vscode_style\vscode_style.css" na propriedade: background-image: url();
-- Depois de ter colocado o caminho da imagem, como atalho atalho "ctrl + shift + p" no vscode procure por "Enable Custom CSS and Js", vai pedir para restartar o vcode e quando voltar vai aparecer a imagem de fundo
+- Depois de ter colocado a imagem no arquivo "vscode_style.css", no vscode com o atalho "ctrl + shift + p" procure por "Enable Custom CSS and Js" e click, vai pedi para restartar o vcode e quando voltar vai aparecer a imagem de fundo
  
 <img src="https://github.com/MainGabriel/background-vscode/blob/master/config/enable-image.png" width=550px/>
 - Depois de feito, se quiser substituir a imagem/animação apenas troque o caminho no arquivo vscode_style.css e procure por "Reload Custom CSS and Js" para mudar o background
