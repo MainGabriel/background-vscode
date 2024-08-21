@@ -20,17 +20,22 @@
   }
 ```
 - vai na configuração do vscode: atalho ctrl + shift + p e procure por settings e procure por "code actions on save" e click em "Edit in settings.json" para abrir o arquivo conforme imagens:
-      <img alt="requisição post" src="https://github.com/Gabriel-developer-01/" width=550px/>
-       <img alt="requisição post" src="https://github.com/Gabriel-developer-01/" width=550px/>
+  <p><img src="https://github.com/MainGabriel/background-vscode/blob/master/config/config-vscode.png" width=550px> </p>
+  <p><img src="https://github.com/MainGabriel/background-vscode/blob/master/config/config-vscode-1.png" width=550px/></p>
+      
 - após isso acrescente o código
 ```
 "vscode_custom_css.imports":["file:///C:/Users/dev_g/.vscode/vscode_style/vscode_style.css"],
 ```
- <img alt="requisição post" src="https://github.com/Gabriel-developer-01/" width=550px/>
-- depois dessa configurações, apenas colocar a imagem ou animação desejada adicionando a imagem/animação no arquivo: C:\Users\[seu usuario]\.vscode\vscode_style na propriedade: background-image: url();
+  <img src="https://github.com/MainGabriel/background-vscode/blob/master/config/config-vscode-2.png" width=550px/>
+  
+- depois dessa configurações, apenas colocar a imagem ou animação desejada adicionando a imagem/animação no arquivo que está no caminho "C:\Users\[seu usuario]\.vscode\vscode_style\vscode_style.css" na propriedade: background-image: url();
 - Depois de ter colocado o caminho da imagem, como atalho atalho "ctrl + shift + p" no vscode procure por "Enable Custom CSS and Js", vai pedir para restartar o vcode e quando voltar vai aparecer a imagem de fundo
+ 
+<img src="https://github.com/MainGabriel/background-vscode/blob/master/config/enable-image.png" width=550px/>
 - Depois de feito, se quiser substituir a imagem/animação apenas troque o caminho no arquivo vscode_style.css e procure por "Reload Custom CSS and Js" para mudar o background
 
+<img src="https://github.com/MainGabriel/background-vscode/blob/master/config/reload-image.png" width=550px/>
  <h5>Como procurar: </h5>
    
 - pesquise por "ping page gif [nome da animação que quer, por exemplo: 'ping page gif star wars']"
